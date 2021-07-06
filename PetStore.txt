@@ -1,0 +1,7 @@
+Welcome to Pet Store
+
+Husky
+Golden Retrievers
+German Shepherd
+Bulldog
+
