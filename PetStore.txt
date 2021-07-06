@@ -5,3 +5,5 @@ Golden Retrievers
 German Shepherd
 Bulldog
 
+Sparrow
+Parrot
